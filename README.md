@@ -31,6 +31,3 @@ TextUtils is a web-based utility application designed to manipulate, format, and
 * **Frontend:** React.js, HTML5, CSS3
 * **Styling Framework:** Bootstrap (or custom CSS, adjust as per your actual stack)
 * **Icons/Fonts:** Standard modern web typography
-
-   ```bash
-   git clone [https://github.com/YOUR_USERNAME/TextUtils.git](https://github.com/YOUR_USERNAME/TextUtils.git)
